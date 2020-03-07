@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main-->
+    <dimen name="base_side_margin">20dp</dimen>
+    <dimen name="button_layout_margin">10dp</dimen>
+    <dimen name="button_bottom_margin">12dp</dimen>
+    <dimen name="double_standard_margin">16dp</dimen>
+    <dimen name="button_margin_side">64dp</dimen>
+    <!--контакты View-->
+    <dimen name="standard_margin">8dp</dimen>
+    <dimen name="toolbar_margin">8dp</dimen>
+    <!--land-->
+    <dimen name="contact_padding">40dp</dimen>
+    <dimen name="contact_width">350dp</dimen>
+    <!--контакты-->
+    <dimen name="icon_contact_dimen">60dp</dimen>
+    <!--edit контакты-->
+    <dimen name="edit_contact_width">350dp</dimen>
+    <dimen name="small_padding">10dp</dimen>
+    <!--Web Page-->
+    <dimen name="web_page_button_margin">8dp</dimen>
+    <dimen name="web_page_button_size_width">180dp</dimen>
+    <!-- текст -->
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="standard_text_size">16sp</dimen>
+
+</resources>

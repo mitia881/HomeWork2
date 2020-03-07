@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">HomeWork2</string>
+    <!--Main-->
+    <string name="choose_action">Choose action</string>
+    <string name="open_phonebook">Open phonebook</string>
+    <string name="open_customview">Open custom view</string>
+    <string name="open_web_page">Open web page</string>
+    <!--контакты View-->
+    <string name="search_contact">Search contact</string>
+    <string name="no_contact">No contacts. Please add</string>
+    <string name="add_contact">Add contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="phone_or_email">Phone or email</string>
+    <string name="remove">Remove</string>
+    <!--Custom View-->
+    <string name="custom_view">Custom view</string>
+    <string name="back">Back</string>
+    <string name="use_toast">Use toast</string>
+    <string name="use_snackbar">Use snackbar</string>
+    <!--WebView-->
+    <string name="google_com">google.com</string>
+    <string name="previous_page">&lt;-  Previous Page</string>
+    <string name="open_in_browser">Open in Browser</string>
+
+</resources>
